@@ -22,6 +22,19 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>UIAppFonts</key>
+	<array>
+    <string>fonts/FontAwesome.ttf</string>
+    <string>fonts/Ionicons.ttf</string>
+    <string>fonts/Foundation.ttf</string>
+    <string>fonts/MaterialCommunityIcons.ttf</string>
+    <string>fonts/MaterialIcons.ttf</string>
+	<string>fonts/Zocial.ttf</string>
+	<string>fonts/SimpleLineIcons.ttf</string>
+	<string>fonts/Octicons.ttf</string>
+	<string>fonts/Feather.ttf</string>
+	<string>fonts/Ionicons.ttf</string>
+	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
